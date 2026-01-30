@@ -24,5 +24,3 @@ It improved my understanding of strings and conditions.
 
 ---
 
-## Author
-Srinivas
